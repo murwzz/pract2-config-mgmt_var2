@@ -1,6 +1,5 @@
 import argparse
 import sys
-import os
 
 
 def validate_args(args):
